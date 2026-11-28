@@ -1,1 +1,1 @@
-# entrypost-releases
+# EntryPost releases
